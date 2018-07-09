@@ -9,8 +9,8 @@ It is powered by Flask and it offers native support for MongoDB repositories.
 The codebase is thoroughly tested under Python 3.6 (Python 2.7 support was dropped somewhere on the road).
 
 
-Read the docs
-=============
+Read the docs :)
+================
 .. include:: contents.rst.inc
 
 ****
